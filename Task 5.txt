@@ -1,0 +1,4 @@
+I used scapy which is a powerful tool for sniffing the packets.
+To use this Application install using pip install scapy 
+Then you open your Powershell and search for ipconfig /all to check available networks.
+Then Search in your python teriminal for the Required port to sniff and sniff the Packets.
